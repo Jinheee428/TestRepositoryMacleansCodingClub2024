@@ -32,3 +32,4 @@ while True:
             print("Colder!")
         else:
             print("Same distance as your last guess!")
+print("Your guesses were:", guess_list)
